@@ -30,7 +30,7 @@ Whether I'm optimizing neural networks for computer vision or analyzing 1.1M+ ne
 
 ## 💎 Flagship Projects (S-Ranked)
 
-### 🐦 [Twitter-Scale Link Prediction Engine](https://github.com/dhrumilrana25/Twitter-Link-Prediction-Engine)
+### 🐦 [Twitter-Scale Link Prediction Engine](https://github.com/dhrumilrana25/Twitter-Scale-Link-Prediction-Engine)
 A high-performance social discovery engine.
 * **Scale:** Processed **1.2M nodes / 1M edges** from the Twitter-2010 graph.
 * **Tech:** Combined **DeepWalk embeddings** with classical graph heuristics to achieve an **0.8872 AUC**.
