@@ -1,35 +1,71 @@
-Hello there! I'm Dhrumil Rana, a dedicated Machine Learning and Data Science Engineer,
-with an unquenchable thirst for innovation in the realms of technology and space exploration. 
-My journey is fueled by the desire to unravel the mysteries of data and transform them into actionable insights.
+# 🛰️ Mission Control: Dhrumil Rana
+### Data Science & ML Engineer | MS @ UT Arlington | Space & Tech Enthusiast
 
-Exploring the uncharted territories of machine learning algorithms and data-driven solutions is where my heart finds its rhythm.
-With a solid foundation in mathematics and a creative mindset, I strive to craft elegant solutions to complex problems.
+![Space Banner](https://github.com/dhrumilrana25/Python-Libraries-Tutorial/assets/139121688/54208c7a-df53-46ad-a9df-ceec5482bffc)
 
-On GitHub, you'll find my repository gems where I've meticulously crafted tutorials on Python libraries.
-These repositories serve as stepping stones for both beginners and seasoned programmers to dive into the depths of libraries, unraveling their potential to reshape the tech landscape.
+---
 
-🔗 Here are some of my standout repositories:
+## 👨‍🚀 The Odyssey
+I am a **Master’s in Data Science candidate at the University of Texas at Arlington**, specializing in the intersection of machine learning, high-volume data engineering, and predictive analytics. My journey began with a Bachelor's in Engineering and has led me through software development at **Odoo** to building high-scale graph engines today.
 
-Python Libraries Tutorial : Dive into the world of Python Libraries with this comprehensive tutorial. This repository guides you through every nook and cranny.
+Whether I'm optimizing neural networks for computer vision or analyzing 1.1M+ network packets, my goal is to transform "mysterious" data into actionable intelligence. 
 
-Machine Learning Projects : Unleash the power of ML & DS ! This repository is your compass for navigating through the intricacies, with hands-on examples that demystify its functionalities.
-[specific domain : Datacleaning, Preprocessing and Feature Enginerring].
+* **🔭 Current Orbit:** Refining link prediction models for million-node social graphs and exploring zero-day threat detection in IoT.
+* **🚀 Career Trajectory:** From Software Developer Intern at Odoo to Lead Building Manager at UTA's MAC—balancing technical rigor with leadership.
+* **🌌 North Star:** Pushing the boundaries of tech innovation to eventually solve the complexities of space exploration.
 
-Beyond the lines of code, you'll often find me gazing at the stars, captivated by the cosmos.
-Exploring the frontiers of space is a passion that parallels my drive for technological innovation.
+---
 
-Join me on this odyssey of code and cosmos, as we push the boundaries of what's possible. Let's connect and collaborate to create a future that's both innovative and inspiring.
+## 🛠️ Technical Arsenal
 
-📬 Reach out to me at dhrumilrana25@gmail.com or connect on https://www.linkedin.com/in/dhrumil-rana-265316232/,
-and let's embark on a journey that takes us to the stars and beyond!
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Data Engineering** | Pandas SQL, Data Cleaning, Preprocessing, Feature Engineering |
+| **ML & AI** | Scikit-Learn, TensorFlow, Keras, Deep Learning, Graph ML (DeepWalk) |
+| **Computer Vision** | OpenCV, MediaPipe, Gesture Recognition |
+| **Visualization** | Matplotlib, Seaborn, Parallel Coordinates, Plotly |
+| **Dev Tools** | Git, GitHub, Overleaf (LaTeX), VS Code, Jupyter |
 
-Stay curious, stay inspired, and let's code the future together! 🌟
+---
 
+## 💎 Flagship Projects (S-Ranked)
 
-![space1](https://github.com/dhrumilrana25/Python-Libraries-Tutorial/assets/139121688/54208c7a-df53-46ad-a9df-ceec5482bffc)
+### 🐦 [Twitter-Scale Link Prediction Engine](https://github.com/dhrumilrana25/Twitter-Link-Prediction-Engine)
+A high-performance social discovery engine.
+* **Scale:** Processed **1.2M nodes / 1M edges** from the Twitter-2010 graph.
+* **Tech:** Combined **DeepWalk embeddings** with classical graph heuristics to achieve an **0.8872 AUC**.
 
+### 🛡️ [IoT Malware Detection: Behavioral Analytics](https://github.com/dhrumilrana25/IoT-Malware-Detection-Network-Analytics)
+Real-time intrusion detection via network behavior.
+* **Insight:** Used **Information Theory** to reduce 23 features down to the **top 2 most informative**, maintaining **95.38% Accuracy**.
+* **Engineering:** Managed **1.1M connections** with complex SQL joins in Pandas.
 
+---
 
+## 📚 Educational Tutorials & ML Labs
 
+* **🐍 [Python Libraries Tutorial](https://github.com/dhrumilrana25/Python-Libraries-Tutorial):** My "nook and cranny" guide to NumPy, Pandas, and visualization libraries. 
+* **🤖 [Machine Learning Projects](https://github.com/dhrumilrana25/Machine-Learning-Projects):** A curated lab of classical problems:
+  * **Iris Classification:** The ML "Hello World."
+  * **Spam Detection:** NLP-based binary classification.
+  * **Handwriting Recognition:** Deep Learning with MNIST.
+  * **Gesture Volume Control:** Real-time PC automation via OpenCV.
 
+---
 
+## 🌟 Beyond the Code
+* **🌌 Cosmos:** An avid space enthusiast—I find symmetry between the complexity of neural networks and the layout of the stars.
+* **🎮 Tech & Gear:** Gaming enthusiast (ASUS ROG ecosystem) and a fan of clean, high-performance hardware.
+* **🏸 Active Life:** When I'm not at the MAC (Maverick Activities Center), you'll find me on the badminton or volleyball courts.
+* **🏎️ F1 & Sports:** Following the high-speed data analytics of Formula 1 and the strategy of Cricket.
+
+---
+
+## 📬 Join the Odyssey
+Let's connect and build a future that's both innovative and inspiring!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhrumil-rana-265316232/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhrumilrana25@gmail.com)
+
+---
+*“Stay curious, stay inspired, and let's code the future together!”*
