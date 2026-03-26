@@ -30,6 +30,12 @@ Whether I'm optimizing neural networks for computer vision or analyzing 1.1M+ ne
 
 ## 💎 Flagship Projects (S-Ranked)
 
+### 🏭 [Agentic-Cleanse Factory](https://github.com/dhrumilrana25/Agentic-Cleanse)
+*Autonomous Multi-Agent ETL Orchestration with Self-Healing Logic.*
+* **Agentic AI:** Orchestrated 4 specialized agents using **LangGraph** to automate data profiling, cleaning, and security scanning.
+* **Self-Healing:** Implemented recursive error-handling loops where the system autonomously debugs and repairs Python tracebacks via the **Groq API**.
+* **Tech Stack:** Llama 3.3, Streamlit, LangSmith, Pandas.
+  
 ### 🐦 [Twitter-Scale Link Prediction Engine](https://github.com/dhrumilrana25/Twitter-Scale-Link-Prediction-Engine)
 A high-performance social discovery engine.
 * **Scale:** Processed **1.2M nodes / 1M edges** from the Twitter-2010 graph.
