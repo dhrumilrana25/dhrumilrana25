@@ -1,77 +1,81 @@
-# 🛰️ Mission Control: Dhrumil Rana
-### Data Science & ML Engineer | MS @ UT Arlington | Space & Tech Enthusiast
+# 🚀 Dhrumil Rana  
+### AI Systems & Machine Learning Engineer | MS @ UT Arlington
 
 ![Space Banner](https://github.com/dhrumilrana25/Python-Libraries-Tutorial/assets/139121688/54208c7a-df53-46ad-a9df-ceec5482bffc)
 
 ---
 
-## 👨‍🚀 The Odyssey
-I am a **Master’s in Data Science candidate at the University of Texas at Arlington**, specializing in the intersection of machine learning, high-volume data engineering, and predictive analytics. My journey began with a Bachelor's in Engineering and has led me through software development at **Odoo** to building high-scale graph engines today.
+## 👨‍💻 About Me
+I’m a **Master’s student in Data Science at the University of Texas at Arlington** focused on building **real-world AI systems** at scale. My work spans **agentic AI, graph machine learning, and data engineering**, with an emphasis on turning complex data into production-ready solutions.
 
-Whether I'm optimizing neural networks for computer vision or analyzing 1.1M+ network packets, my goal is to transform "mysterious" data into actionable intelligence. 
+Previously, I worked as a **Software Developer Intern at Odoo**, where I optimized backend systems and improved performance in high-volume environments.
 
-* **🔭 Current Orbit:** Refining link prediction models for million-node social graphs and exploring zero-day threat detection in IoT.
-* **🚀 Career Trajectory:** From Software Developer Intern at Odoo to Lead Building Manager at UTA's MAC—balancing technical rigor with leadership.
-* **🌌 North Star:** Pushing the boundaries of tech innovation to eventually solve the complexities of space exploration.
+I’m particularly interested in **AI systems design, scalable ML pipelines, and applied machine learning in production environments.**
 
 ---
 
-## 🛠️ Technical Arsenal
+## 🔧 Technical Stack
 
-| Category | Tools & Technologies |
+| Category | Technologies |
 | :--- | :--- |
-| **Data Engineering** | Pandas SQL, Data Cleaning, Preprocessing, Feature Engineering |
-| **ML & AI** | Scikit-Learn, TensorFlow, Keras, Deep Learning, Graph ML (DeepWalk) |
-| **Computer Vision** | OpenCV, MediaPipe, Gesture Recognition |
-| **Visualization** | Matplotlib, Seaborn, Parallel Coordinates, Plotly |
-| **Dev Tools** | Git, GitHub, Overleaf (LaTeX), VS Code, Jupyter |
+| **Languages** | Python, SQL |
+| **ML & AI** | Scikit-learn, TensorFlow, PyTorch, Deep Learning, Graph ML (DeepWalk), Generative AI (RAG, LangChain) |
+| **Data Engineering** | Pandas, Data Pipelines, Feature Engineering, ETL |
+| **Tools** | Git, GitHub, PostgreSQL, Tableau, Power BI, Postman |
 
 ---
 
-## 💎 Flagship Projects (S-Ranked)
+## 💎 Key Projects
 
 ### 🏭 [Agentic-Cleanse Factory](https://github.com/dhrumilrana25/Agentic-Cleanse)
-*Autonomous Multi-Agent ETL Orchestration with Self-Healing Logic.*
-* **Agentic AI:** Orchestrated 4 specialized agents using **LangGraph** to automate data profiling, cleaning, and security scanning.
-* **Self-Healing:** Implemented recursive error-handling loops where the system autonomously debugs and repairs Python tracebacks via the **Groq API**.
-* **Tech Stack:** Llama 3.3, Streamlit, LangSmith, Pandas.
-  
+**LLM-powered multi-agent ETL system for automated data cleaning and validation**
+
+- Built a **multi-agent pipeline using LangGraph + Groq** to automate data preprocessing workflows  
+- Designed **self-healing logic loops** to debug and repair pipeline failures autonomously  
+- Reduced manual data processing effort by **80%**  
+- **Stack:** LangGraph, Groq, Streamlit, Python  
+
+---
+
 ### 🐦 [Twitter-Scale Link Prediction Engine](https://github.com/dhrumilrana25/Twitter-Scale-Link-Prediction-Engine)
-A high-performance social discovery engine.
-* **Scale:** Processed **1.2M nodes / 1M edges** from the Twitter-2010 graph.
-* **Tech:** Combined **DeepWalk embeddings** with classical graph heuristics to achieve an **0.8872 AUC**.
+**Large-scale graph learning system for social link prediction**
 
-### 🛡️ [IoT Malware Detection: Behavioral Analytics](https://github.com/dhrumilrana25/IoT-Malware-Detection-Network-Analytics)
-Real-time intrusion detection via network behavior.
-* **Insight:** Used **Information Theory** to reduce 23 features down to the **top 2 most informative**, maintaining **95.38% Accuracy**.
-* **Engineering:** Managed **1.1M connections** with complex SQL joins in Pandas.
+- Processed **1.2M nodes with 1M+ random walks** using DeepWalk embeddings  
+- Engineered hybrid features combining embeddings + graph heuristics  
+- Achieved **0.887 AUC**, outperforming baseline methods  
+- **Stack:** DeepWalk, NetworkX, Scikit-learn  
 
 ---
 
-## 📚 Educational Tutorials & ML Labs
+### 🛡️ [IoT Malware Detection](https://github.com/dhrumilrana25/IoT-Malware-Detection-Network-Analytics)
+**Behavioral analytics system for real-time threat detection**
 
-* **🐍 [Python Libraries Tutorial](https://github.com/dhrumilrana25/Python-Libraries-Tutorial):** My "nook and cranny" guide to NumPy, Pandas, and visualization libraries. 
-* **🤖 [Machine Learning Projects](https://github.com/dhrumilrana25/Machine-Learning-Projects):** A curated lab of classical problems:
-  * **Iris Classification:** The ML "Hello World."
-  * **Spam Detection:** NLP-based binary classification.
-  * **Handwriting Recognition:** Deep Learning with MNIST.
-  * **Gesture Volume Control:** Real-time PC automation via OpenCV.
-
----
-
-## 🌟 Beyond the Code
-* **🌌 Cosmos:** An avid space enthusiast—I find symmetry between the complexity of neural networks and the layout of the stars.
-* **🎮 Tech & Gear:** Gaming enthusiast (ASUS ROG ecosystem) and a fan of clean, high-performance hardware.
-* **🏸 Active Life:** When I'm not at the MAC (Maverick Activities Center), you'll find me on the badminton or volleyball courts.
-* **🏎️ F1 & Sports:** Following the high-speed data analytics of Formula 1 and the strategy of Cricket.
+- Built ML models on **1.1M+ network connections**  
+- Reduced feature space using **information theory-based selection**  
+- Achieved **95.38% accuracy** in malware classification  
+- **Stack:** Python, Pandas, Scikit-learn  
 
 ---
 
-## 📬 Join the Odyssey
-Let's connect and build a future that's both innovative and inspiring!
+## 📘 Additional Work
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhrumil-rana-265316232/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhrumilrana25@gmail.com)
+- 🐍 [Python Libraries Guide](https://github.com/dhrumilrana25/Python-Libraries-Tutorial) — Practical guide to NumPy, Pandas, and visualization tools  
+- 🤖 [Machine Learning Projects](https://github.com/dhrumilrana25/Machine-Learning-Projects) — Collection of ML fundamentals including NLP, CV, and classification tasks  
 
 ---
-*“Stay curious, stay inspired, and let's code the future together!”*
+
+## 🎯 Current Focus
+- Building **agentic AI systems and autonomous workflows**
+- Scaling **graph machine learning pipelines**
+- Exploring **privacy-preserving ML and real-world AI deployment**
+
+---
+
+## 🌐 Let’s Connect
+
+[LinkedIn](https://www.linkedin.com/in/dhrumil-rana-265316232/) •  
+[Email](mailto:dhrumilrana25@gmail.com)
+
+---
+
+*Building intelligent systems that move from experimentation to real-world impact.*
